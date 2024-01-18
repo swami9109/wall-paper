@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830200572593",
+    "project_id": "wallpare-app",
+    "storage_bucket": "wallpare-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830200572593:android:c76eed9f7bc0888a391090",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBga6PgEF1VPpxDwjoWzz-M87u1S4QU738"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
